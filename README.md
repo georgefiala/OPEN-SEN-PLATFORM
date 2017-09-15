@@ -36,6 +36,6 @@ APPS overview in screenshots at project presentation webpage:
 
 http://ictherapy.cz/news/presenting-open-sen-platform/
 
-Link to source code at sourceForge (login required)
+Link to source codes at sourceForge (login required)
 
 https://sourceforge.net/p/computerastherapy/ict-framework/code
